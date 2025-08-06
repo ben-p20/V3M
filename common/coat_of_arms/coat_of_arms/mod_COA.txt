@@ -2,3 +2,10 @@ NULL = {
 	pattern = "pattern_solid.tga"
 	color1 = "grey_observer"
 }
+
+ACW = {
+	pattern = "pattern_solid.tga"
+	color1 = { 128 0 128 }
+	color2 = "white"
+	color3 = "black"
+}

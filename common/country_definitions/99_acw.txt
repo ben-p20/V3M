@@ -1,0 +1,7 @@
+ACW = {
+	color = { 128 0 128 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { yankee dixie }
+	capital = STATE_NEW_YORK
+}
