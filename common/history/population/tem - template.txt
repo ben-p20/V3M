@@ -1,4 +1,4 @@
-﻿##name must be tag - name (ie eng - england)
+﻿##name must be tag - name (ie eng - england) c:tag must be changed to new country tag in capitals ie ENG
 POPULATION = {
 	c:TAG ?= {
 		effect_starting_pop_wealth_high = yes
