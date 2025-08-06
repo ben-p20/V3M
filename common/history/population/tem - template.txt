@@ -1,0 +1,7 @@
+﻿##name must be tag - name (ie eng - england)
+POPULATION = {
+	c:TAG ?= {
+		effect_starting_pop_wealth_high = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+}
