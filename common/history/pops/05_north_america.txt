@@ -1,4 +1,4 @@
-﻿POPS = {
+POPS = {
 	s:STATE_DISTRICT_OF_COLUMBIA = {
 		# total population of DC in 1830 was 30261, and 33745 in 1840. 32003 serves as a workable average.
 		# + Fairfax County, VA. Total pop in 1830 was 9204, 5203 free/4001 slaves
@@ -21,7 +21,7 @@
 		}
 	}
 	s:STATE_LOUISIANA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = cajun
 				religion = catholic
@@ -227,7 +227,7 @@
 				size = 4000
 			}
 		}
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 1200
@@ -239,7 +239,7 @@
 		}
 	}
 	s:STATE_WYOMING = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 8000
@@ -278,7 +278,7 @@
 		}
 	}
 	s:STATE_MONTANA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 5000
@@ -315,7 +315,7 @@
 		}
 	}
 	s:STATE_NORTH_DAKOTA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 6000
@@ -340,7 +340,7 @@
 				size = 34000
 			}
 		}
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 4000
@@ -349,7 +349,7 @@
 		# DKT has 12000
 	}
 	s:STATE_NEBRASKA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 4000
@@ -373,7 +373,7 @@
 		}
 	}
 	s:STATE_KANSAS = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = siouan
 				size = 12000
@@ -420,7 +420,7 @@
 		}
 	}
 	s:STATE_ARKANSAS = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = cajun
 				religion = catholic
@@ -446,7 +446,7 @@
 		}
 	}
 	s:STATE_MISSOURI = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = cajun
 				religion = catholic
@@ -485,7 +485,7 @@
 		}
 	}
 	s:STATE_IOWA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = algonquian
 				size = 12000
@@ -501,7 +501,7 @@
 		}
 	}
 	s:STATE_MINNESOTA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = algonquian
 				size = 16000
@@ -515,7 +515,7 @@
 		}
 	}
 	s:STATE_WISCONSIN = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = algonquian
 				size = 8000
@@ -527,7 +527,7 @@
 		}
 	}
 	s:STATE_INDIANA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = yankee
 				size = 631504
@@ -547,7 +547,7 @@
 		}
 	}
 	s:STATE_MICHIGAN = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = yankee
 				size = 123996
@@ -572,7 +572,7 @@
 		}
 	}
 	s:STATE_OHIO = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = yankee
 				size = 1092200
@@ -592,7 +592,7 @@
 		}
 	}
 	s:STATE_KENTUCKY = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = dixie
 				size = 239988
@@ -617,7 +617,7 @@
 		}
 	}
 	s:STATE_TENNESSEE = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = dixie
 				size = 369604
@@ -650,7 +650,7 @@
 		}
 	}
 	s:STATE_MISSISSIPPI = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = dixie
 				size = 172804
@@ -667,7 +667,7 @@
 		}
 	}
 	s:STATE_ALABAMA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = dixie
 				size = 329008
@@ -725,7 +725,7 @@
 		}
 	}
 	s:STATE_GEORGIA = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = dixie
 				size = 329836
@@ -799,7 +799,7 @@
 	}
 
 	s:STATE_DELAWARE = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = dixie
 				size = 77000
@@ -862,7 +862,7 @@
 		}
 	}
 	s:STATE_ILLINOIS = {
-		region_state:USA = {
+		region_state:ACW = {
 			create_pop = {
 				culture = yankee
 				size = 452400
